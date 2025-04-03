@@ -8,7 +8,7 @@ A **MATLAB-based** grapher for **six** trigonometric functions _(sine, cosine, t
 
 Install the project
 
-![Download the project as ZIP]([project/screenshots/localInstallation01.png](https://github.com/ketpadilla/ict01_1S2122/blob/main/project/screenshots/localInstallation01.png?raw=true))
+![Download the project as ZIP](https://github.com/ketpadilla/ict01_1S2122/blob/main/project/screenshots/localInstallation01.png?raw=true)
 
 Extract the ZIP file and upload the files to MATLAB Drive
 
@@ -33,7 +33,7 @@ Ensure file hierarchy
 
 Run _trigonometricCalculator.m_
 
-![Preview of file run]([project/screenshots/localInstallation02.png](https://github.com/ketpadilla/ict01_1S2122/blob/main/project/screenshots/localInstallation02.png?raw=true))
+![Preview of file run](https://github.com/ketpadilla/ict01_1S2122/blob/main/project/screenshots/localInstallation02.png?raw=true)
 ## Features
 
 &nbsp; 1. Graph any of the following trigonometric functions:
